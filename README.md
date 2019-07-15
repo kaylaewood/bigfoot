@@ -1,7 +1,8 @@
-Steps for Installation
-```
-1. Clone down repo.
-2. *cd* into `bigfoot`
-3. Run `npm install`
-4. Run `npm test bigfoot-test.js`
-```
+# Bigfoot
+
+## Installation Steps
+
+1. Clone the repo
+2. From the cloned directory, run `npm install`
+3. Run your first test suite `npm test bigfoot-test.js` 
+4. Make the tests pass
