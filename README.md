@@ -1,5 +1,7 @@
 # Bigfoot
 
+![Bigfoot](https://media.giphy.com/media/ZXghl6pqdGtNK/giphy.gif)
+
 ## Installation Steps
 
 1. Clone the repo
